@@ -1,0 +1,14 @@
+C:\Users\Jan Lam\source\repos\autSIMS\bin\Debug\netcoreapp2.2\autSIMS.deps.json
+C:\Users\Jan Lam\source\repos\autSIMS\bin\Debug\netcoreapp2.2\autSIMS.runtimeconfig.json
+C:\Users\Jan Lam\source\repos\autSIMS\bin\Debug\netcoreapp2.2\autSIMS.runtimeconfig.dev.json
+C:\Users\Jan Lam\source\repos\autSIMS\bin\Debug\netcoreapp2.2\autSIMS.dll
+C:\Users\Jan Lam\source\repos\autSIMS\obj\Debug\netcoreapp2.2\autSIMS.csprojAssemblyReference.cache
+C:\Users\Jan Lam\source\repos\autSIMS\obj\Debug\netcoreapp2.2\autSIMS.csproj.CoreCompileInputs.cache
+C:\Users\Jan Lam\source\repos\autSIMS\obj\Debug\netcoreapp2.2\autSIMS.RazorAssemblyInfo.cache
+C:\Users\Jan Lam\source\repos\autSIMS\obj\Debug\netcoreapp2.2\autSIMS.RazorAssemblyInfo.cs
+C:\Users\Jan Lam\source\repos\autSIMS\obj\Debug\netcoreapp2.2\autSIMS.AssemblyInfoInputs.cache
+C:\Users\Jan Lam\source\repos\autSIMS\obj\Debug\netcoreapp2.2\autSIMS.AssemblyInfo.cs
+C:\Users\Jan Lam\source\repos\autSIMS\obj\Debug\netcoreapp2.2\autSIMS.RazorTargetAssemblyInfo.cache
+C:\Users\Jan Lam\source\repos\autSIMS\bin\Debug\netcoreapp2.2\autSIMS.pdb
+C:\Users\Jan Lam\source\repos\autSIMS\obj\Debug\netcoreapp2.2\autSIMS.dll
+C:\Users\Jan Lam\source\repos\autSIMS\obj\Debug\netcoreapp2.2\autSIMS.pdb
